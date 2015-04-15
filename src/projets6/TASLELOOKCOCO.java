@@ -10,7 +10,7 @@ package projets6;
  * @author Thom
  */
 public class TASLELOOKCOCO {
-    tigadigadam
-            tigadigadam
-                ho hé ho hé.
+    private int coucou;
+            
+            
 }
